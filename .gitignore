@@ -1,0 +1,14 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore large data or model files (if needed)
+*.h5
+*.csv
+*.pkl
