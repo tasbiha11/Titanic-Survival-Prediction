@@ -44,8 +44,6 @@ This project predicts the survival of passengers aboard the Titanic using a mach
   - `matplotlib`
   - `seaborn`
   - `scikit-learn`
-  - (Optional) `Jupyter Notebook`
+  - `Jupyter Notebook`
 
-You can install the required libraries using:
-```bash
-pip install -r requirements.txt
+
