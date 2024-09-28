@@ -27,7 +27,6 @@ This project predicts the survival of passengers aboard the Titanic using a mach
 - Visualized survival rates across different ticket classes, gender, and age using **Matplotlib**.
 
 ![Survival Plot](./output.png)
-)  <!-- Replace with the actual file path to your image -->
 
 ### Step 3: Model Building
 - **Model Used**: Naïve Bayes
