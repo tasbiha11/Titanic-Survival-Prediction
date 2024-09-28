@@ -26,7 +26,7 @@ This project predicts the survival of passengers aboard the Titanic using a mach
 - Plotted various passenger characteristics and their relation to survival.
 - Visualized survival rates across different ticket classes, gender, and age using **Matplotlib**.
 
-![Survival by Class and Gender](![Plot](./output_image.png)
+![Survival by Class and Gender](![Plot](./output.png)
 )  <!-- Replace with the actual file path to your image -->
 
 ### Step 3: Model Building
